@@ -10,6 +10,20 @@
        alt="snake" /></a>
 </div>
 
+<hr>
+
+<pre>
+💻 I am a self taught Full Stack Developer, Machine Learning Developer, Data Scientist
+📚 I am a 4th year of software engineering student
+📝 I have a strong interest in Data Science and Artificial Intelligence
+🔭 Working on Machine Learning
+🌱 Learning about Computer Vision and Machine Learning stuff
+🌟 Main languages: Python
+🚩 Interested in Machine Learning Position as an intern or Data Scientist Intern
+
+</pre>
+<hr>
+
 
 <a target="_blank" align="center">
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
