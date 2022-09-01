@@ -2,10 +2,7 @@
 <h3 align="center">A passionate Software Engineer Student</h3>
 
 
-<img align="right" alt="coding" width = "400" src="https://media.giphy.com/media/3orif0rjs49gsPWg1y/giphy.gif">
-
-
-
+<img align="right" alt="Coding" width = "300" src="https://media.giphy.com/media/3orif0rjs49gsPWg1y/giphy.gif">
 
 
 <h3 align="left">Connect with me:</h3>
