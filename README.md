@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Elie Bracha</h1>
 <h3 align="center">A passionate Software Engineer Student</h3>
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Competitive+Programmer;ACPC+2021+Finalist;DS%20|%20Algorithms%20|%20OOP%20;Specialist%20on%20Codeforces;Division%202%20on%20Codechef%20(3%20Stars);6%20Kyu%20on%20Atcoder;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
+</p>
 
-<img align= "right" width = "400" src = ![image](https://user-images.githubusercontent.com/79973967/187894679-c4cb4a9c-0611-4483-8f79-5a7c180cc277.png)>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
