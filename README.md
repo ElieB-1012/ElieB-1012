@@ -2,7 +2,9 @@
 <h3 align="center">A passionate Software Engineer Student</h3>
 
 
-<img align="right" alt="coding" witdh = "400" src="![giphy](https://user-images.githubusercontent.com/79973967/187892483-757ade67-05ce-4cd2-bfb0-a9117b8bbdee.gif)">
+<img align="right" alt="coding" witdh = "400" src="">
+
+![giphy](https://user-images.githubusercontent.com/79973967/187892483-757ade67-05ce-4cd2-bfb0-a9117b8bbdee.gif)
 
 
 
