@@ -10,12 +10,6 @@
        alt="snake" /></a>
 </div>
 
-<div align="center">
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ElieB-1012&show_icons=true&count_private=true&include_all_commits=true&title_color=f8333c&icon_color=f8333c)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ElieB-1012&layout=compact&custom_title=I%20use&title_color=f8333c&card_width=445)
-</div>
-
 
 <a target="_blank" align="center">
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
