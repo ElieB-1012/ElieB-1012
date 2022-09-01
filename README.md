@@ -11,7 +11,7 @@
 </div>
 
 <hr>
-
+<h3 align="center">About Me:
 <pre>
 💻 I am a self taught Full Stack Developer, Machine Learning Developer, Data Scientist
 📚 I am a 4th year of software engineering student
@@ -22,6 +22,7 @@
 🚩 Interested in Machine Learning Position as an intern or Data Scientist Intern
 
 </pre>
+ </h3>
 <hr>
 
 
