@@ -1,10 +1,7 @@
 <h1 align="center">Hi 👋, I'm Elie Bracha</h1>
 <h3 align="center">A passionate Software Engineer Student</h3>
 
-
-<img align="right" alt="Coding" width = "300" src="https://media.giphy.com/media/3orif0rjs49gsPWg1y/giphy.gif">
 ![image](https://user-images.githubusercontent.com/79973967/187894679-c4cb4a9c-0611-4483-8f79-5a7c180cc277.png)
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
