@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Elie Bracha</h1>
 <h3 align="center">A passionate Software Engineer Student</h3>
-<img align="right" alt="coding" witdh = "400" src="![image](https://user-images.githubusercontent.com/79973967/187891515-f6759059-9295-4ae9-8bf4-bbcb341eb9ba.png)">
+<img align="right" alt="coding" witdh = "400" src="![image](https://user-images.githubusercontent.com/79973967/187891968-47f7b13f-aefa-41aa-9aa1-498e3feb0b2f.png)">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/elie-bracha-7776b9208/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/elie-bracha-7776b9208/" height="30" width="40" /></a>
