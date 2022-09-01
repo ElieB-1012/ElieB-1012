@@ -14,12 +14,13 @@
 <h3 align="center">About Me:
 <pre>
 💻 I am a self taught Full Stack Developer, Machine Learning Developer, Data Scientist
-📚 I am a 4th year of software engineering student
+📚 I am a 4th year student as software engineer
 📝 I have a strong interest in Data Science and Artificial Intelligence
 🔭 Working on Machine Learning
 🌱 Learning about Computer Vision and Machine Learning stuff
 🌟 Main languages: Python
 🚩 Interested in Machine Learning Position as an intern or Data Scientist Intern
+⛩️ Love anime & manga
 
 </pre>
  </h3>
