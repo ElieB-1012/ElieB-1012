@@ -14,7 +14,7 @@
 <h3 align="center">About Me:
 <pre>
 💻 I am a self taught Machine Learning Developer, Data Scientist
-📚 I am a 4th year student as software engineer
+📚 I am a software engineer
 📝 I have a strong interest in Data Science and Artificial Intelligence
 🔭 Working on Machine Learning
 🌱 Learning about Computer Vision and Machine Learning
